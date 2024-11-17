@@ -18,8 +18,7 @@ if latas_necessarias <= 0:
     latas_necessarias + 1
 else:
     latas_necessarias
-    
-print(latas_necessarias)
+
 
 valor_a_ser_pago = latas_necessarias * 80
 
